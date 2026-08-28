@@ -3,5 +3,5 @@
 # The variables used.
 Gold_per_share = 27 // 4
 remainder = 27 % 4
-# Showing the result.
+# Showing the result in a sentence easy to understand.
 print("The goblin shares {} gold pieces to his 4 friends and keeps {} gold pieces for himself.".format(Gold_per_share, remainder))

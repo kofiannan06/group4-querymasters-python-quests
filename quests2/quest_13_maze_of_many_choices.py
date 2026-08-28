@@ -10,4 +10,5 @@ elif score >= 80:
 elif score >= 70:
     print("C")
 else:
+    # Essentially showing it is not a good score.
     print("Needs Improvement")
